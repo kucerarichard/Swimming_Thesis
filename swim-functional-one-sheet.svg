@@ -1,0 +1,354 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1700 1388" width="1700" height="1388" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowYmE5N2NmNi02ZDQ4LTQzNTQtODI3Yi1mNWI2MGJlMDNlMTQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaOlgvDkriQ+DRqvDAJx7D+EAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplYjUwNDRkMS04MTFjLTQyZjgtYjM0ZS1kMzczZWMyN2NmOTJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoBjrjZSEvf7TXDPlyPmp9HgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggbRizNEjC2Db/6vhveb95UADEqg15UXJzpL6iWo4hdW6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaO+Bfjdb9Ooeb1jxjsDAR1wAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBx0ncHZ8k5f6ZseJPvXtT6HEMRNAufPyciNOhyC/bUFGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjUZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjBiYTk3Y2Y2LTZkNDgtNDM1NC04MjdiLWY1YjYwYmUwM2UxNC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmUxZWQ4M2ZlLTAzNTctNDFmZi1iMDBmLTcxZDQ5ZmMyYjdjOXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBtGLM0SMLYNv/q+G95v3lQAMSqDXlRcnOkvqJajiF1bqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggms41G0uqluDWiLbPK5fOjnvNdjibkLBh2IUn5uX3XvWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggAYY8Z8kolGNPIBZpsIUUDqG+lI+dxZTCup1R+muGuMd0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMduNCVbuXquTANmmFQ0bFcU85Vszpud9tSczpyypqsV3+I/2Q/m8GrplwC9JvtKxLVVwWtoYLNq5jmYv+oMeBo=</c2pa:manifest></metadata>
+<rect x="0.0" y="0.0" width="1700.0" height="1388.0" fill="#E6EDEF"/>
+<line x1="0.0" y1="0.0" x2="0.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="0.0" x2="1700.0" y2="0.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="50.0" y1="0.0" x2="50.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="50.0" x2="1700.0" y2="50.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="100.0" y1="0.0" x2="100.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="100.0" x2="1700.0" y2="100.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="150.0" y1="0.0" x2="150.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="150.0" x2="1700.0" y2="150.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="200.0" y1="0.0" x2="200.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="200.0" x2="1700.0" y2="200.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="250.0" y1="0.0" x2="250.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="250.0" x2="1700.0" y2="250.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="300.0" y1="0.0" x2="300.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="300.0" x2="1700.0" y2="300.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="350.0" y1="0.0" x2="350.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="350.0" x2="1700.0" y2="350.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="400.0" y1="0.0" x2="400.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="400.0" x2="1700.0" y2="400.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="450.0" y1="0.0" x2="450.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="450.0" x2="1700.0" y2="450.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="500.0" y1="0.0" x2="500.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="500.0" x2="1700.0" y2="500.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="550.0" y1="0.0" x2="550.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="550.0" x2="1700.0" y2="550.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="600.0" y1="0.0" x2="600.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="600.0" x2="1700.0" y2="600.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="650.0" y1="0.0" x2="650.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="650.0" x2="1700.0" y2="650.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="700.0" y1="0.0" x2="700.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="700.0" x2="1700.0" y2="700.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="750.0" y1="0.0" x2="750.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="750.0" x2="1700.0" y2="750.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="800.0" y1="0.0" x2="800.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="800.0" x2="1700.0" y2="800.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="850.0" y1="0.0" x2="850.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="850.0" x2="1700.0" y2="850.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="900.0" y1="0.0" x2="900.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="900.0" x2="1700.0" y2="900.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="950.0" y1="0.0" x2="950.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="950.0" x2="1700.0" y2="950.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1000.0" y1="0.0" x2="1000.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="1000.0" x2="1700.0" y2="1000.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1050.0" y1="0.0" x2="1050.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="1050.0" x2="1700.0" y2="1050.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1100.0" y1="0.0" x2="1100.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="1100.0" x2="1700.0" y2="1100.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1150.0" y1="0.0" x2="1150.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="1150.0" x2="1700.0" y2="1150.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1200.0" y1="0.0" x2="1200.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="1200.0" x2="1700.0" y2="1200.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1250.0" y1="0.0" x2="1250.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="1250.0" x2="1700.0" y2="1250.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1300.0" y1="0.0" x2="1300.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="1300.0" x2="1700.0" y2="1300.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1350.0" y1="0.0" x2="1350.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="0.0" y1="1350.0" x2="1700.0" y2="1350.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1400.0" y1="0.0" x2="1400.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1450.0" y1="0.0" x2="1450.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1500.0" y1="0.0" x2="1500.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1550.0" y1="0.0" x2="1550.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1600.0" y1="0.0" x2="1600.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1650.0" y1="0.0" x2="1650.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<line x1="1700.0" y1="0.0" x2="1700.0" y2="1388.0" stroke="#0B5E7D" stroke-width="0.5" stroke-linecap="butt" opacity="0.05"/>
+<text x="40.0" y="68.0" font-size="42" font-weight="700" fill="#12181B" letter-spacing="-1.3">The fly-free chain</text>
+<text x="488.0" y="68.0" font-size="17" font-weight="400" fill="#7C8A8F">functional swimming, one sheet</text>
+<text x="1660.0" y="52.0" font-size="15" font-weight="400" fill="#31424A" text-anchor="end">Set the pattern in the stroke that cannot be faked.</text>
+<text x="1660.0" y="74.0" font-size="15" font-weight="400" fill="#7C8A8F" text-anchor="end">Read it in the stroke that can. Repair at the slip, not at the end.</text>
+<rect x="40.0" y="96.0" width="1620.0" height="40.0" fill="#12181B"/>
+<text x="60.0" y="122.0" font-size="17" font-weight="500" fill="#EDF3F4">Swim fly, then freestyle with no rest between them. The freestyle inherits the chain, and that pairing is the method.</text>
+<text x="1640.0" y="122.0" font-size="17" font-weight="600" fill="#2E9EB8" text-anchor="end">A functional concept is a confinement.</text>
+<rect x="841.0" y="136.0" width="18.0" height="288.0" fill="#12181B"/>
+<text transform="translate(854.5,292) rotate(-90)" font-size="11.5" fill="#EDF3F4" letter-spacing="2.2" text-anchor="middle">the midline, and your long axis</text>
+<text x="40.0" y="168.0" font-size="18" font-weight="600" fill="#12181B" letter-spacing="-0.2">The sweeps</text>
+<line x1="40.0" y1="178.0" x2="421.0" y2="178.0" stroke="#12181B" stroke-width="1.2" stroke-linecap="butt" opacity="0.4"/>
+<line x1="40.0" y1="193.5" x2="47.0" y2="193.5" stroke="#0B5E7D" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="55.0" y="198.0" font-size="13" font-weight="400" fill="#31424A">A flat surface pushed straight back accelerates the</text>
+<text x="55.0" y="214.5" font-size="13" font-weight="400" fill="#31424A">water it acts on, and the pressure collapses. A curved</text>
+<text x="55.0" y="231.0" font-size="13" font-weight="400" fill="#31424A">path keeps meeting water that has not been accelerated.</text>
+<line x1="40.0" y1="248.0" x2="47.0" y2="248.0" stroke="#0B5E7D" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="55.0" y="252.5" font-size="13" font-weight="400" fill="#31424A">Hand and forearm are one paddle. Drop the elbow and it</text>
+<text x="55.0" y="269.0" font-size="13" font-weight="400" fill="#31424A">shrinks to a hand.</text>
+<line x1="40.0" y1="286.0" x2="47.0" y2="286.0" stroke="#0B5E7D" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="55.0" y="290.5" font-size="13" font-weight="400" fill="#31424A">Acceleration through the phase is the evidence that the</text>
+<text x="55.0" y="307.0" font-size="13" font-weight="400" fill="#31424A">scull is live. A straight push cannot accelerate for</text>
+<text x="55.0" y="323.5" font-size="13" font-weight="400" fill="#31424A">long.</text>
+<line x1="40.0" y1="340.5" x2="47.0" y2="340.5" stroke="#0B5E7D" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="55.0" y="345.0" font-size="13" font-weight="400" fill="#31424A">Effort raises your detection threshold, so over-effort</text>
+<text x="55.0" y="361.5" font-size="13" font-weight="400" fill="#31424A">destroys the sweep and leaves the push.</text>
+<text x="453.0" y="168.0" font-size="18" font-weight="600" fill="#12181B" letter-spacing="-0.2">The chain</text>
+<line x1="453.0" y1="178.0" x2="834.0" y2="178.0" stroke="#12181B" stroke-width="1.2" stroke-linecap="butt" opacity="0.4"/>
+<line x1="453.0" y1="193.5" x2="460.0" y2="193.5" stroke="#0B5E7D" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="468.0" y="198.0" font-size="13" font-weight="400" fill="#31424A">The load runs foot to hand into the water’s resistance.</text>
+<text x="468.0" y="214.5" font-size="13" font-weight="400" fill="#31424A">The same-side downkick fires the outsweep, not an</text>
+<text x="468.0" y="231.0" font-size="13" font-weight="400" fill="#31424A">abstract catch.</text>
+<line x1="453.0" y1="248.0" x2="460.0" y2="248.0" stroke="#0B5E7D" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="468.0" y="252.5" font-size="13" font-weight="400" fill="#31424A">A hand doing the work cannot report on the water. Get</text>
+<text x="468.0" y="269.0" font-size="13" font-weight="400" fill="#31424A">the load into the trunk and the hand is freed to feel.</text>
+<line x1="453.0" y1="286.0" x2="460.0" y2="286.0" stroke="#0B5E7D" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="468.0" y="290.5" font-size="13" font-weight="400" fill="#31424A">Insect: one stiff stick, limbs swinging against a fixed</text>
+<text x="468.0" y="307.0" font-size="13" font-weight="400" fill="#31424A">trunk. Cat: separately movable vertebrae the limbs</text>
+<text x="468.0" y="323.5" font-size="13" font-weight="400" fill="#31424A">cannot move without.</text>
+<line x1="453.0" y1="340.5" x2="460.0" y2="340.5" stroke="#0B5E7D" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="468.0" y="345.0" font-size="13" font-weight="400" fill="#31424A">Trunk anchoring is produced by the loaded arm, which is</text>
+<text x="468.0" y="361.5" font-size="13" font-weight="400" fill="#31424A">why you never cue it.</text>
+<rect x="866.0" y="152.0" width="381.0" height="252.0" fill="#D5E3E7"/>
+<line x1="866.0" y1="152.0" x2="1247.0" y2="152.0" stroke="#0B5E7D" stroke-width="3" stroke-linecap="butt"/>
+<text x="880.0" y="180.0" font-size="18" font-weight="600" fill="#0B5E7D">Fly confines</text>
+<line x1="880.0" y1="203.5" x2="887.0" y2="203.5" stroke="#0B5E7D" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="895.0" y="208.0" font-size="12.5" font-weight="400" fill="#31424A">One solution survives, so the chain fires because</text>
+<text x="895.0" y="224.0" font-size="12.5" font-weight="400" fill="#31424A">nothing else delivers air.</text>
+<line x1="880.0" y1="240.5" x2="887.0" y2="240.5" stroke="#0B5E7D" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="895.0" y="245.0" font-size="12.5" font-weight="400" fill="#31424A">Path. Two hands clear the midline, locked to the</text>
+<text x="895.0" y="261.0" font-size="12.5" font-weight="400" fill="#31424A">undulation.</text>
+<line x1="880.0" y1="277.5" x2="887.0" y2="277.5" stroke="#0B5E7D" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="895.0" y="282.0" font-size="12.5" font-weight="400" fill="#31424A">Purchase onset. Air needs force from the front, so</text>
+<text x="895.0" y="298.0" font-size="12.5" font-weight="400" fill="#31424A">the outsweep must grip.</text>
+<line x1="880.0" y1="314.5" x2="887.0" y2="314.5" stroke="#0B5E7D" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="895.0" y="319.0" font-size="12.5" font-weight="400" fill="#31424A">Phase. The arms cannot be timed apart from the</text>
+<text x="895.0" y="335.0" font-size="12.5" font-weight="400" fill="#31424A">undulation.</text>
+<line x1="880.0" y1="351.5" x2="887.0" y2="351.5" stroke="#0B5E7D" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="895.0" y="356.0" font-size="12.5" font-weight="400" fill="#31424A">No surplus capacity, so the flail that feels strong</text>
+<text x="895.0" y="372.0" font-size="12.5" font-weight="400" fill="#31424A">buys no air.</text>
+<rect x="1279.0" y="152.0" width="381.0" height="252.0" fill="#D3DFE3"/>
+<line x1="1279.0" y1="152.0" x2="1660.0" y2="152.0" stroke="#12181B" stroke-width="3" stroke-linecap="butt"/>
+<text x="1293.0" y="180.0" font-size="18" font-weight="600" fill="#12181B">Freestyle leaves it open</text>
+<line x1="1293.0" y1="203.5" x2="1300.0" y2="203.5" stroke="#12181B" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="1308.0" y="208.0" font-size="12.5" font-weight="400" fill="#31424A">Many configurations stay available. That is the</text>
+<text x="1308.0" y="224.0" font-size="12.5" font-weight="400" fill="#31424A">ceiling and the loophole.</text>
+<line x1="1293.0" y1="240.5" x2="1300.0" y2="240.5" stroke="#12181B" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="1308.0" y="245.0" font-size="12.5" font-weight="400" fill="#31424A">An arm-only pull still moves you, and buoyancy covers</text>
+<text x="1308.0" y="261.0" font-size="12.5" font-weight="400" fill="#31424A">the rest.</text>
+<line x1="1293.0" y1="277.5" x2="1300.0" y2="277.5" stroke="#12181B" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="1308.0" y="282.0" font-size="12.5" font-weight="400" fill="#31424A">A late catch is tolerated, so purchase onset is the</text>
+<text x="1308.0" y="298.0" font-size="12.5" font-weight="400" fill="#31424A">first thing to go.</text>
+<line x1="1293.0" y1="314.5" x2="1300.0" y2="314.5" stroke="#12181B" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="1308.0" y="319.0" font-size="12.5" font-weight="400" fill="#31424A">In fly the lateral components cancel. Split the pair</text>
+<text x="1308.0" y="335.0" font-size="12.5" font-weight="400" fill="#31424A">and the roll manages what is left, timed to the</text>
+<text x="1308.0" y="351.0" font-size="12.5" font-weight="400" fill="#31424A">sweep.</text>
+<line x1="1293.0" y1="367.5" x2="1300.0" y2="367.5" stroke="#12181B" stroke-width="1.5" stroke-linecap="butt" opacity="0.8"/>
+<text x="1308.0" y="372.0" font-size="12.5" font-weight="400" fill="#31424A">Spare capacity affords the thrash. The complexity</text>
+<text x="1308.0" y="388.0" font-size="12.5" font-weight="400" fill="#31424A">buys the speed.</text>
+<rect x="40.0" y="424.0" width="1620.0" height="348.0" fill="#D3DFE3"/>
+<line x1="40.0" y1="424.0" x2="1660.0" y2="424.0" stroke="#0B5E7D" stroke-width="3" stroke-linecap="butt"/>
+<text x="56.0" y="458.0" font-size="20" font-weight="700" fill="#12181B" letter-spacing="-0.3">One scull, five stations</text>
+<text x="56.0" y="484.0" font-size="13" font-weight="700" fill="#0B5E7D">1</text>
+<text x="70.0" y="484.0" font-size="13.5" font-weight="600" fill="#12181B">extend</text>
+<text x="148.0" y="484.0" font-size="12.5" font-weight="400" fill="#31424A">forward, hand soft, shoulder to the jaw</text>
+<text x="56.0" y="502.0" font-size="13" font-weight="700" fill="#0B5E7D">2</text>
+<text x="70.0" y="502.0" font-size="13.5" font-weight="600" fill="#12181B">outsweep</text>
+<text x="148.0" y="502.0" font-size="12.5" font-weight="400" fill="#31424A">purchase starts here, fired by the same-side downkick</text>
+<text x="56.0" y="520.0" font-size="13" font-weight="700" fill="#0B5E7D">3</text>
+<text x="70.0" y="520.0" font-size="13.5" font-weight="600" fill="#12181B">insweep</text>
+<text x="148.0" y="520.0" font-size="12.5" font-weight="400" fill="#31424A">under the body, forearm facing the flow</text>
+<text x="56.0" y="538.0" font-size="13" font-weight="700" fill="#0B5E7D">4</text>
+<text x="70.0" y="538.0" font-size="13.5" font-weight="600" fill="#12181B">press</text>
+<text x="148.0" y="538.0" font-size="12.5" font-weight="400" fill="#31424A">back and out, still finding unaccelerated water</text>
+<text x="56.0" y="556.0" font-size="13" font-weight="700" fill="#0B5E7D">5</text>
+<text x="70.0" y="556.0" font-size="13.5" font-weight="600" fill="#12181B">exit</text>
+<text x="148.0" y="556.0" font-size="12.5" font-weight="400" fill="#31424A">punctuation, and the commitment to the other side</text>
+<text x="56.0" y="582.0" font-size="12.5" font-weight="400" fill="#7C8A8F" font-style="italic">Relative to your body the hand travels a long curved path.</text>
+<text x="56.0" y="597.5" font-size="12.5" font-weight="400" fill="#7C8A8F" font-style="italic">Relative to the water its net rearward travel is small. The deck</text>
+<text x="56.0" y="613.0" font-size="12.5" font-weight="400" fill="#7C8A8F" font-style="italic">sees the second and calls it an anchor.</text>
+<line x1="56.0" y1="654.5" x2="356.0" y2="654.5" stroke="#7C8A8F" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="56.0" y1="684.5" x2="356.0" y2="684.5" stroke="#7C8A8F" stroke-width="1.4" stroke-linecap="butt"/>
+<text x="56.0" y="644.5" font-size="11.5" font-weight="400" fill="#7C8A8F">hand</text>
+<text x="56.0" y="700.5" font-size="11.5" font-weight="400" fill="#7C8A8F">kick</text>
+<line x1="110.0" y1="646.5" x2="110.0" y2="692.5" stroke="#0B5E7D" stroke-width="2" stroke-linecap="butt" stroke-dasharray="3 3"/>
+<text x="118.0" y="648.5" font-size="11.5" font-weight="600" fill="#0B5E7D">outsweep</text>
+<text x="118.0" y="698.5" font-size="11.5" font-weight="600" fill="#0B5E7D">downbeat</text>
+<circle cx="110.0" cy="654.5" r="5" fill="#0B5E7D"/>
+<circle cx="110.0" cy="684.5" r="5" fill="#0B5E7D"/>
+<text x="236.0" y="672.5" font-size="12" font-weight="400" fill="#31424A" font-style="italic">in fly the two coincide by construction</text>
+<text x="56.0" y="724.5" font-size="12.5" font-weight="600" fill="#12181B">The report arrives every cycle. The commitment is one act</text>
+<text x="56.0" y="739.5" font-size="12.5" font-weight="600" fill="#12181B">covering an extent: the length, and the wall that ends it.</text>
+<path d="M 850 502 C 872 550, 868 640, 856 696 C 850 712, 850 712, 844 696 C 832 640, 828 550, 850 502 Z" fill="#12181B" opacity="0.22"/>
+<circle cx="850" cy="488" r="16" fill="#12181B" opacity="0.22"/>
+<path d="M 908.0 520.0 C 962.0 526.0 988.0 544.0 992.0 576.0 C 996.0 608.0 924.0 614.0 880.0 636.0 C 858.0 652.0 910.0 672.0 946.0 690.0" fill="none" stroke="#0B5E7D" stroke-width="3.4" stroke-linecap="round"/>
+<circle cx="908.0" cy="520.0" r="4.5" fill="#0B5E7D"/>
+<line x1="970.9" y1="603.2" x2="956.1" y2="609.1" stroke="#0B5E7D" stroke-width="2.6" stroke-linecap="round"/>
+<polygon points="956.1,609.1 962.4,602.6 965.0,609.5" fill="#0B5E7D"/>
+<line x1="886.4" y1="659.5" x2="900.2" y2="667.5" stroke="#0B5E7D" stroke-width="2.6" stroke-linecap="round"/>
+<polygon points="900.2,667.5 891.3,666.6 894.9,660.2" fill="#0B5E7D"/>
+<line x1="988.7" y1="562.5" x2="988.7" y2="549.5" stroke="#2E9EB8" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+<polygon points="988.7,549.5 991.5,555.9 985.8,555.9" fill="#2E9EB8" opacity="0.9"/>
+<line x1="946.9" y1="612.2" x2="946.9" y2="591.2" stroke="#2E9EB8" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+<polygon points="946.9,591.2 949.8,597.6 944.1,597.6" fill="#2E9EB8" opacity="0.9"/>
+<line x1="929.0" y1="681.8" x2="929.0" y2="652.8" stroke="#2E9EB8" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+<polygon points="929.0,652.8 931.9,659.2 926.2,659.2" fill="#2E9EB8" opacity="0.9"/>
+<path d="M 792.0 520.0 C 738.0 526.0 712.0 544.0 708.0 576.0 C 704.0 608.0 776.0 614.0 820.0 636.0 C 842.0 652.0 790.0 672.0 754.0 690.0" fill="none" stroke="#0B5E7D" stroke-width="3.4" stroke-linecap="round"/>
+<circle cx="792.0" cy="520.0" r="4.5" fill="#0B5E7D"/>
+<line x1="729.1" y1="603.2" x2="743.9" y2="609.1" stroke="#0B5E7D" stroke-width="2.6" stroke-linecap="round"/>
+<polygon points="743.9,609.1 735.0,609.5 737.6,602.6" fill="#0B5E7D"/>
+<line x1="813.6" y1="659.5" x2="799.8" y2="667.5" stroke="#0B5E7D" stroke-width="2.6" stroke-linecap="round"/>
+<polygon points="799.8,667.5 805.1,660.2 808.7,666.6" fill="#0B5E7D"/>
+<line x1="711.3" y1="562.5" x2="711.3" y2="549.5" stroke="#2E9EB8" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+<polygon points="711.3,549.5 714.2,555.9 708.5,555.9" fill="#2E9EB8" opacity="0.9"/>
+<line x1="753.1" y1="612.2" x2="753.1" y2="591.2" stroke="#2E9EB8" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+<polygon points="753.1,591.2 755.9,597.6 750.2,597.6" fill="#2E9EB8" opacity="0.9"/>
+<line x1="771.0" y1="681.8" x2="771.0" y2="652.8" stroke="#2E9EB8" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+<polygon points="771.0,652.8 773.8,659.2 768.1,659.2" fill="#2E9EB8" opacity="0.9"/>
+<circle cx="972.7" cy="541.1" r="7.5" fill="#C4262C"/>
+<line x1="982.7" y1="537.1" x2="1026.0" y2="528.0" stroke="#C4262C" stroke-width="1.4" stroke-linecap="butt"/>
+<text x="1032.0" y="520.0" font-size="13" font-weight="600" fill="#C4262C">purchase starts</text>
+<text x="1032.0" y="535.0" font-size="13" font-weight="600" fill="#C4262C">at the outsweep</text>
+<text x="1032.0" y="556.0" font-size="12" font-weight="400" fill="#31424A">not later, and not at</text>
+<text x="1032.0" y="570.0" font-size="12" font-weight="400" fill="#31424A">a fixed point in space</text>
+<text x="1032.0" y="614.0" font-size="12" font-weight="600" fill="#2E9EB8">propulsive force</text>
+<text x="1032.0" y="628.0" font-size="12" font-weight="600" fill="#2E9EB8">builds through</text>
+<text x="1032.0" y="642.0" font-size="12" font-weight="600" fill="#2E9EB8">the phase</text>
+<text x="850.0" y="746.0" font-size="13" font-weight="600" fill="#0B5E7D" text-anchor="middle">fly: two mirrored question marks, the keyhole</text>
+<path d="M 1440 510 C 1456 550, 1453 624, 1444 670 C 1440 682, 1440 682, 1436 670 C 1427 624, 1424 550, 1440 510 Z" fill="#12181B" opacity="0.22"/>
+<circle cx="1440" cy="498" r="13" fill="#12181B" opacity="0.22"/>
+<path d="M 1486 520 C 1538 524, 1560 542, 1562 570 C 1564 604, 1498 608, 1462 626 C 1442 648, 1498 670, 1542 692" fill="none" stroke="#0B5E7D" stroke-width="3.4" stroke-linecap="round"/>
+<path d="M 1378 600 A 62 26 0 0 0 1448 620" fill="none" stroke="#2E9EB8" stroke-width="2.2"/>
+<line x1="1432.0" y1="614.0" x2="1450.0" y2="621.0" stroke="#2E9EB8" stroke-width="2.2" stroke-linecap="round"/>
+<polygon points="1450.0,621.0 1442.0,621.4 1444.4,615.3" fill="#2E9EB8"/>
+<text x="1364.0" y="588.0" font-size="12.5" font-weight="600" fill="#2E9EB8" text-anchor="end">the roll,</text>
+<text x="1364.0" y="603.0" font-size="12.5" font-weight="600" fill="#2E9EB8" text-anchor="end">timed to</text>
+<text x="1364.0" y="618.0" font-size="12.5" font-weight="600" fill="#2E9EB8" text-anchor="end">the sweep</text>
+<line x1="1568.0" y1="574.0" x2="1612.0" y2="574.0" stroke="#C4262C" stroke-width="2" stroke-linecap="round"/>
+<polygon points="1612.0,574.0 1604.7,577.3 1604.7,570.7" fill="#C4262C"/>
+<text x="1660.0" y="594.0" font-size="11.5" font-weight="400" fill="#C4262C" text-anchor="end">lateral force,</text>
+<text x="1660.0" y="608.0" font-size="11.5" font-weight="400" fill="#C4262C" text-anchor="end">uncancelled</text>
+<text x="1460.0" y="724.0" font-size="13" font-weight="600" fill="#0B5E7D" text-anchor="middle">freestyle: the same scull, one side at a time</text>
+<text x="1460.0" y="742.0" font-size="12.5" font-weight="400" fill="#31424A" text-anchor="middle">and the roll does what symmetry did in fly</text>
+<text x="40.0" y="800.0" font-size="18" font-weight="600" fill="#12181B" letter-spacing="-0.2">Protocol</text>
+<line x1="40.0" y1="810.0" x2="421.0" y2="810.0" stroke="#12181B" stroke-width="1.2" stroke-linecap="butt" opacity="0.4"/>
+<text x="40.0" y="830.0" font-size="12.5" font-weight="700" fill="#0B5E7D">1</text>
+<text x="56.0" y="830.0" font-size="12.5" font-weight="400" fill="#31424A">Fly, then free, no wall and no rest between them.</text>
+<text x="40.0" y="846.0" font-size="12.5" font-weight="700" fill="#0B5E7D">2</text>
+<text x="56.0" y="846.0" font-size="12.5" font-weight="400" fill="#31424A">Keep the fly short. It sets the pattern, it is not the set.</text>
+<text x="40.0" y="862.0" font-size="12.5" font-weight="700" fill="#0B5E7D">3</text>
+<text x="56.0" y="862.0" font-size="12.5" font-weight="400" fill="#31424A">Ladder the free side: 25 / 25, then / 50, / 75, / 100.</text>
+<text x="40.0" y="878.0" font-size="12.5" font-weight="700" fill="#0B5E7D">4</text>
+<text x="56.0" y="878.0" font-size="12.5" font-weight="400" fill="#31424A">Insert the fly at the onset of the slip, not at the end.</text>
+<text x="40.0" y="894.0" font-size="12.5" font-weight="700" fill="#0B5E7D">5</text>
+<text x="56.0" y="894.0" font-size="12.5" font-weight="400" fill="#31424A">End the set when re-entry stops holding for a length.</text>
+<text x="40.0" y="910.0" font-size="12.5" font-weight="700" fill="#0B5E7D">6</text>
+<text x="56.0" y="910.0" font-size="12.5" font-weight="400" fill="#31424A">Attend to pressure, acceleration, and the downkick.</text>
+<text x="40.0" y="932.0" font-size="12.5" font-weight="600" fill="#0B5E7D">Fade the prompt</text>
+<text x="40.0" y="948.0" font-size="12.5" font-weight="400" fill="#31424A">25 fly, 15 m, six strokes, two, one, none.</text>
+<text x="40.0" y="967.5" font-size="12.5" font-weight="600" fill="#C4262C">Narrow the field, and check what survives</text>
+<text x="40.0" y="983.5" font-size="12.5" font-weight="400" fill="#C4262C">A buoy confines too, and leaves arm-only as the only way</text>
+<text x="40.0" y="999.0" font-size="12.5" font-weight="400" fill="#C4262C">through. Paddles raise the threshold. Economy targets need a</text>
+<text x="40.0" y="1014.5" font-size="12.5" font-weight="400" fill="#C4262C">speed floor, or coasting satisfies them.</text>
+<text x="453.0" y="800.0" font-size="18" font-weight="600" fill="#12181B" letter-spacing="-0.2">The session curve</text>
+<line x1="453.0" y1="810.0" x2="834.0" y2="810.0" stroke="#12181B" stroke-width="1.2" stroke-linecap="butt" opacity="0.4"/>
+<rect x="457.0" y="830.0" width="373.0" height="68.0" fill="#DAE6E9"/>
+<line x1="457.0" y1="898.0" x2="830.0" y2="898.0" stroke="#12181B" stroke-width="1.3" stroke-linecap="butt"/>
+<line x1="457.0" y1="830.0" x2="457.0" y2="898.0" stroke="#12181B" stroke-width="1.3" stroke-linecap="butt"/>
+<polyline points="457.0,888.9 460.7,888.6 464.5,888.1 468.2,887.3 471.9,886.4 475.6,885.4 479.4,884.2 483.1,882.9 486.8,881.5 490.6,879.9 494.3,878.3 498.0,876.5 501.8,874.7 505.5,872.8 509.2,870.7 513.0,868.6 516.7,866.4 520.4,864.1 524.1,861.7 527.9,859.3 531.6,856.8 535.3,854.1 539.1,851.5 542.8,848.7 546.5,845.9 550.2,843.0 554.0,840.0 554.0,840.0 557.7,840.0 561.4,840.0 565.2,840.0 568.9,840.0 572.6,840.0 576.4,840.0 580.1,840.0 583.8,840.0 587.5,840.0 591.3,840.0 595.0,840.0 598.7,840.0 602.5,840.0 606.2,840.0 609.9,840.0 613.7,840.0 617.4,840.0 621.1,840.0 624.9,840.0 628.6,840.0 632.3,840.0 636.0,840.0 639.8,840.0 643.5,840.0 647.2,840.0 651.0,840.0 651.0,840.0 654.7,840.6 658.4,841.7 662.1,843.0 665.9,844.7 669.6,846.5 673.3,848.6 677.1,850.8 680.8,853.2 684.5,855.8 688.3,858.5 692.0,861.3 695.7,864.3 699.5,867.4 703.2,870.6 706.9,874.0" fill="none" stroke="#0B5E7D" stroke-width="2.6"/>
+<polyline points="710.6,877.4 721.8,844.2 755.4,875.4" fill="none" stroke="#0B5E7D" stroke-width="2.6"/>
+<line x1="710.6" y1="834.0" x2="710.6" y2="898.0" stroke="#C4262C" stroke-width="1.4" stroke-linecap="butt" stroke-dasharray="3 3"/>
+<text x="713.6" y="842.0" font-size="10.5" font-weight="600" fill="#C4262C">fly</text>
+<polyline points="755.4,874.3 766.6,847.3 800.2,872.2" fill="none" stroke="#0B5E7D" stroke-width="2.6"/>
+<line x1="755.4" y1="834.0" x2="755.4" y2="898.0" stroke="#C4262C" stroke-width="1.4" stroke-linecap="butt" stroke-dasharray="3 3"/>
+<text x="758.4" y="842.0" font-size="10.5" font-weight="600" fill="#C4262C">fly</text>
+<text x="505.5" y="913.0" font-size="11.5" font-weight="400" fill="#7C8A8F" text-anchor="middle">cold</text>
+<text x="602.5" y="913.0" font-size="11.5" font-weight="400" fill="#7C8A8F" text-anchor="middle">warm</text>
+<text x="740.5" y="913.0" font-size="11.5" font-weight="400" fill="#7C8A8F" text-anchor="middle">fatigued</text>
+<text transform="translate(447,864.0) rotate(-90)" font-size="11" fill="#31424A" text-anchor="middle">chain</text>
+<text x="453.0" y="932.0" font-size="12.5" font-weight="600" fill="#0B5E7D">onset</text>
+<text x="521.0" y="932.0" font-size="12.5" font-weight="400" fill="#31424A">warm-up before it shows up</text>
+<text x="453.0" y="950.5" font-size="12.5" font-weight="600" fill="#0B5E7D">duration</text>
+<text x="521.0" y="950.5" font-size="12.5" font-weight="400" fill="#31424A">how far into the set it survives</text>
+<text x="453.0" y="969.0" font-size="12.5" font-weight="600" fill="#0B5E7D">re-entry</text>
+<text x="521.0" y="969.0" font-size="12.5" font-weight="400" fill="#31424A">fly needed to restore it, 25 to one stroke</text>
+<text x="453.0" y="993.5" font-size="12.5" font-weight="600" fill="#0B5E7D">Open cold with body dolphins, then sculling, then easy</text>
+<text x="453.0" y="1009.0" font-size="12.5" font-weight="600" fill="#0B5E7D">fly. Never loose limbs, which ask the trunk for nothing.</text>
+<text x="453.0" y="1028.5" font-size="12.5" font-weight="400" fill="#7C8A8F" font-style="italic">Warm with no prime is the proof it is installed.</text>
+<text x="866.0" y="800.0" font-size="18" font-weight="600" fill="#12181B" letter-spacing="-0.2">What the swimmer reads</text>
+<line x1="866.0" y1="810.0" x2="1247.0" y2="810.0" stroke="#12181B" stroke-width="1.2" stroke-linecap="butt" opacity="0.4"/>
+<text x="866.0" y="830.0" font-size="12.5" font-weight="600" fill="#0B5E7D">pressure</text>
+<text x="958.0" y="830.0" font-size="12.5" font-weight="400" fill="#31424A">packed on hand and forearm from the outsweep</text>
+<text x="958.0" y="845.5" font-size="12.5" font-weight="400" fill="#31424A">on</text>
+<text x="866.0" y="865.0" font-size="12.5" font-weight="600" fill="#0B5E7D">acceleration</text>
+<text x="958.0" y="865.0" font-size="12.5" font-weight="400" fill="#31424A">the flow goes past faster as the phase runs</text>
+<text x="866.0" y="884.5" font-size="12.5" font-weight="600" fill="#0B5E7D">attention</text>
+<text x="958.0" y="884.5" font-size="12.5" font-weight="400" fill="#31424A">out on the water, never on your own elbow</text>
+<text x="866.0" y="904.0" font-size="12.5" font-weight="600" fill="#0B5E7D">the breath</text>
+<text x="958.0" y="904.0" font-size="12.5" font-weight="400" fill="#31424A">arrives unasked, and cannot be faked</text>
+<text x="866.0" y="923.5" font-size="12.5" font-weight="600" fill="#0B5E7D">the count</text>
+<text x="958.0" y="923.5" font-size="12.5" font-weight="400" fill="#31424A">falls on its own. Read it after, never chase</text>
+<text x="958.0" y="939.0" font-size="12.5" font-weight="400" fill="#31424A">it</text>
+<text x="866.0" y="968.5" font-size="18" font-weight="600" fill="#12181B" letter-spacing="-0.2">Prerequisite, or a substitute</text>
+<line x1="866.0" y1="978.5" x2="1247.0" y2="978.5" stroke="#12181B" stroke-width="1.2" stroke-linecap="butt" opacity="0.4"/>
+<text x="866.0" y="998.5" font-size="12.5" font-weight="400" fill="#31424A">A fly that must be muscled can be brute-forced for 25 and</text>
+<text x="866.0" y="1014.0" font-size="12.5" font-weight="400" fill="#31424A">enforces nothing. Build it first, ratcheting as it gets</text>
+<text x="866.0" y="1029.5" font-size="12.5" font-weight="400" fill="#31424A">easy.</text>
+<text x="866.0" y="1051.0" font-size="12.5" font-weight="400" fill="#0B5E7D">Or breaststroke with a clear dolphin: first downbeat on the</text>
+<text x="866.0" y="1066.5" font-size="12.5" font-weight="400" fill="#0B5E7D">outsweep, second as the hands shoot forward, head with the</text>
+<text x="866.0" y="1082.0" font-size="12.5" font-weight="400" fill="#0B5E7D">spine. Weaker, so expect a shorter carry.</text>
+<text x="1279.0" y="800.0" font-size="18" font-weight="600" fill="#12181B" letter-spacing="-0.2">Cues, one per set, never stacked</text>
+<line x1="1279.0" y1="810.0" x2="1660.0" y2="810.0" stroke="#12181B" stroke-width="1.2" stroke-linecap="butt" opacity="0.4"/>
+<text x="1279.0" y="830.0" font-size="12.5" font-weight="400" fill="#7C8A8F">the scull</text>
+<text x="1383.0" y="830.0" font-size="12.5" font-weight="600" fill="#0B5E7D">“keep the water packed on the forearm”</text>
+<text x="1279.0" y="845.5" font-size="12.5" font-weight="400" fill="#7C8A8F">fly</text>
+<text x="1383.0" y="845.5" font-size="12.5" font-weight="600" fill="#0B5E7D">“accentuate the outsweep”</text>
+<text x="1279.0" y="861.0" font-size="12.5" font-weight="400" fill="#7C8A8F">freestyle</text>
+<text x="1383.0" y="861.0" font-size="12.5" font-weight="600" fill="#0B5E7D">“move past the water”</text>
+<text x="1279.0" y="876.5" font-size="12.5" font-weight="400" fill="#7C8A8F">recovery</text>
+<text x="1383.0" y="876.5" font-size="12.5" font-weight="600" fill="#0B5E7D">“throw it to the front quadrant”</text>
+<text x="1279.0" y="892.0" font-size="12.5" font-weight="400" fill="#7C8A8F">balance</text>
+<text x="1383.0" y="892.0" font-size="12.5" font-weight="600" fill="#0B5E7D">“lean downhill”</text>
+<text x="1279.0" y="907.5" font-size="12.5" font-weight="400" fill="#7C8A8F">effort</text>
+<text x="1383.0" y="907.5" font-size="12.5" font-weight="600" fill="#0B5E7D">“silent, slippery”</text>
+<text x="1279.0" y="923.0" font-size="12.5" font-weight="400" fill="#7C8A8F">fatigued</text>
+<text x="1383.0" y="923.0" font-size="12.5" font-weight="600" fill="#0B5E7D">“lengthen from the back”</text>
+<text x="1279.0" y="938.5" font-size="12.5" font-weight="400" fill="#7C8A8F">support</text>
+<text x="1383.0" y="938.5" font-size="12.5" font-weight="600" fill="#0B5E7D">“let the water hold me”</text>
+<text x="1279.0" y="954.0" font-size="12.5" font-weight="400" fill="#7C8A8F">de-threatener</text>
+<text x="1383.0" y="954.0" font-size="12.5" font-weight="600" fill="#0B5E7D">“ordinary”</text>
+<text x="1279.0" y="975.5" font-size="12.5" font-weight="400" fill="#C4262C">Retired: “move past your anchored hand”, and “over the</text>
+<text x="1279.0" y="991.0" font-size="12.5" font-weight="400" fill="#C4262C">barrel”, which names the drape and not the action. “Don’t</text>
+<text x="1279.0" y="1006.5" font-size="12.5" font-weight="400" fill="#C4262C">let the hand move” holds only at set. Never trace the S.</text>
+<text x="1279.0" y="1025.0" font-size="12.5" font-weight="400" fill="#7C8A8F" font-style="italic">Recovery names a target, never a shape.</text>
+<text x="40.0" y="1112.0" font-size="18" font-weight="600" fill="#12181B" letter-spacing="-0.2">Observables from the deck, in the order they go</text>
+<line x1="40.0" y1="1122.0" x2="1660.0" y2="1122.0" stroke="#12181B" stroke-width="1.2" stroke-linecap="butt" opacity="0.4"/>
+<text x="40.0" y="1142.0" font-size="13.5" font-weight="600" fill="#0B5E7D">The hand’s path</text>
+<text x="40.0" y="1158.0" font-size="12.5" font-weight="400" fill="#31424A">The question mark flattens toward a straight line. The outsweep goes first, so the</text>
+<text x="40.0" y="1173.5" font-size="12.5" font-weight="400" fill="#31424A">hand drops and travels back instead of sweeping out.</text>
+<text x="590.0" y="1142.0" font-size="13.5" font-weight="600" fill="#0B5E7D">Purchase onset</text>
+<text x="590.0" y="1158.0" font-size="12.5" font-weight="400" fill="#31424A">Force starts later in the cycle. From the side you see a slip, then a shove. Watch</text>
+<text x="590.0" y="1173.5" font-size="12.5" font-weight="400" fill="#31424A">when the pressure starts, not where the hand is.</text>
+<text x="1140.0" y="1142.0" font-size="13.5" font-weight="600" fill="#0B5E7D">The near hip</text>
+<text x="1140.0" y="1158.0" font-size="12.5" font-weight="400" fill="#31424A">Quiet and flat, roll amplitude down, roll shoulder-led. Most reliable tell. Hips</text>
+<text x="1140.0" y="1173.5" font-size="12.5" font-weight="400" fill="#31424A">that sink are a different fault: balance, not the chain.</text>
+<text x="40.0" y="1198.0" font-size="13.5" font-weight="600" fill="#0B5E7D">Kick and catch</text>
+<text x="40.0" y="1214.0" font-size="12.5" font-weight="400" fill="#31424A">The downbeat no longer punctuates the outsweep. The kick drifts to random phase,</text>
+<text x="40.0" y="1229.5" font-size="12.5" font-weight="400" fill="#31424A">or turns into continuous flutter.</text>
+<text x="590.0" y="1198.0" font-size="13.5" font-weight="600" fill="#0B5E7D">Sound</text>
+<text x="590.0" y="1214.0" font-size="12.5" font-weight="400" fill="#31424A">The stroke gets louder mid-length. Listen rather than watch; slip is audible</text>
+<text x="590.0" y="1229.5" font-size="12.5" font-weight="400" fill="#31424A">before it is obvious.</text>
+<text x="1140.0" y="1198.0" font-size="13.5" font-weight="600" fill="#0B5E7D">The wake</text>
+<text x="1140.0" y="1214.0" font-size="12.5" font-weight="400" fill="#31424A">A boil alongside the hip means water pushed backwards. Bubbles shed in a trail</text>
+<text x="1140.0" y="1229.5" font-size="12.5" font-weight="400" fill="#31424A">behind you are vortices left where the sweeps turned.</text>
+<text x="40.0" y="1254.0" font-size="13.5" font-weight="600" fill="#0B5E7D">The recovery</text>
+<text x="40.0" y="1270.0" font-size="12.5" font-weight="400" fill="#31424A">Hand starts leading, arm straightens, elbow drops, entry slaps. The body has</text>
+<text x="40.0" y="1285.5" font-size="12.5" font-weight="400" fill="#31424A">stopped throwing it.</text>
+<text x="590.0" y="1254.0" font-size="13.5" font-weight="600" fill="#0B5E7D">The finish</text>
+<text x="590.0" y="1270.0" font-size="12.5" font-weight="400" fill="#31424A">A flat dead moment at the hand exit, because the swimmer waits for the next pull</text>
+<text x="590.0" y="1285.5" font-size="12.5" font-weight="400" fill="#31424A">to start rotating.</text>
+<text x="1140.0" y="1254.0" font-size="13.5" font-weight="600" fill="#0B5E7D">Head and breath</text>
+<text x="1140.0" y="1270.0" font-size="12.5" font-weight="400" fill="#31424A">Head creeping up, chin tucking, a lift to air instead of a roll, and the breath</text>
+<text x="1140.0" y="1285.5" font-size="12.5" font-weight="400" fill="#31424A">arriving late in the cycle.</text>
+<rect x="40.0" y="1326.0" width="1620.0" height="46.0" fill="#DCE7EA"/>
+<line x1="40.0" y1="1326.0" x2="40.0" y2="1372.0" stroke="#0B5E7D" stroke-width="4" stroke-linecap="butt"/>
+<text x="56.0" y="1346.0" font-size="13" font-weight="400" fill="#31424A">Stroke count lags. Distance per stroke holds while the cost climbs, and tempo hides it. Side video at hip height settles the hip and the path in one length.</text>
+<text x="56.0" y="1363.0" font-size="13" font-weight="600" fill="#12181B">Log the reversion, do not name it. Naming the fault mid-length installs the examiner. Call the distance, “you went at 60”, and insert one fly stroke.</text>
+<text x="1644.0" y="1346.0" font-size="13" font-weight="600" fill="#0B5E7D" text-anchor="end">Fly is a staircase. Push the step away, commit to the line, and arrive.</text>
+<text x="1644.0" y="1363.0" font-size="13" font-weight="600" fill="#0B5E7D" text-anchor="end">A transaction has a beginning and an extent. A cue has neither.</text>
+</svg>
