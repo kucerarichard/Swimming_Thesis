@@ -4,6 +4,8 @@ Swim butterfly, then swim freestyle without a break, and the freestyle inherits 
 
 Two rules hold throughout. When a technique cue and a functional concept conflict, the functional concept wins. And you run one thing at a time, never a stack.
 
+![Functional Swimming One Pager](./swim-functional-one-sheet.svg)
+
 ## Prerequisite
 
 The method assumes a fly you can already swim easily, at regulated effort, for as long as you want, or the substitute described at the end of this section. This reference is written from a fly built up over years to a mile, swum in lengths, with effort regulated throughout and rest taken in the glide when winded. Everything downstream depends on that, so it is worth stating before the mechanism rather than after it.
